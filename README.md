@@ -56,6 +56,21 @@ Usage(srf_three.js)
 		</body>
 	</html>
 
+Update Logs
+-----
+r1 published
+	dnm_three.js pre-version Update Log:
+	v1.01	2013/02/28	delete some comments
+	v1.00	2013/02/05	published
+
+	srf_three.js pre-version Update Log:
+	v1.04	2013/02/28	add function 'EasyMesh()' and delete some comments
+	v1.03	2013/02/01	fix alpha settings & enable doubleside polygons & polygon with more than 4 vertex supported(but this is makeshift...)
+	v1.02	2013/01/30	add parametor 'ModelMesh'  &  fix name 'zl_array'  &  fix(reverse) x-coordinate
+	v1.01	2013/01/28	add "Changes from 'JavaScriptによるsrf2mqo'" and Update Log
+	v1.00	2013/01/27	published
+
+
 Thanks
 -----
 	Club-Raptor(Inventer of Surf Analyzing Algorithm by Perl)
