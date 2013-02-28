@@ -1,10 +1,10 @@
-srf-dnm.three.js
+srf-dnm_three.js
 ================
-	srf.three.js is a srf importer for three.js .
-	dnm.three.js is a dnm importer for three.js .
+	srf_three.js is a srf importer for three.js .
+	dnm_three.js is a dnm importer for three.js .
 	(srf & dnm is the model for YSFlight Simulator)
 
-Usage(srf.three.js)
+Usage(srf_three.js)
 -----
 	<!doctype html>
 	<html>
